@@ -1,0 +1,10 @@
+Na primeira ida, deixo o primeiro interruptor ligado por algum tempo e depois o desligo, ligo o segundo interruptor e vou na primeira sala:
+
+- Se a lâmpada estiver acesa, o segundo interruptor é o que controla a primeira sala;
+- Se a lâmpada estiver apagada, mas quente, o primeiro interruptor é o que controla a primeira sala;
+- Se a lâmpada estiver apagada e fria, o terceiro interruptor é o que controla a primeira sala;
+
+Na segunda ida, deixo ligado um dos dois interruptores que sobraram e vou na segunda sala;
+
+- Se a lâmpada estiver acesa, o interruptor que está ligado é o que controla a segunda sala e o que está desligado controla a terceira sala;
+- Se a lâmpada estiver apagada, o interruptor que está ligado é o que controla a terceira sala e o que está desligado controla a segunda sala;

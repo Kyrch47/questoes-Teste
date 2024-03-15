@@ -1,0 +1,1 @@
+O valor da variável soma será 91! O programa basicamente soma todos os valores de 0 até 13.
